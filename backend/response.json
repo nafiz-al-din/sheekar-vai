@@ -1,0 +1,26 @@
+[
+    {
+        "text":"hello titan",
+        "ans":"hello !"
+    },
+    {
+        "text":"how are you",
+        "ans":"I am fine how are you doing today.."
+    },
+    {
+        "text":"@titan in",
+        "ans":"you logged in"
+    },
+    {
+        "text":"@titan out",
+        "ans":"you logged out"
+    },
+    {
+        "text":"@titan break",
+        "ans":"you are in a break"
+    },
+    {
+        "text":"@titan over",
+        "ans":"your break time is over"
+    }
+]
